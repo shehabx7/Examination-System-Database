@@ -1,0 +1,15 @@
+Admin
+Username = User_adminstrator
+Password = 111
+
+Training manager
+Username = Training_manager
+Password = 222
+
+Instructor
+Username = User_Instructor
+Password = 333
+
+Student
+Username = User_Student
+Password = 444
